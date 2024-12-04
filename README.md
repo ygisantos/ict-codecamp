@@ -34,3 +34,4 @@ When ready, run `dfx deploy --playground` to deploy your application to the ICP 
 ## 💡 Tips and Tricks
 
 - If you get an error "Error: An error happened during communication with the replica: ... Connection refused", run `dfx start --clean` to start dfx.
+# ict-codecamp
